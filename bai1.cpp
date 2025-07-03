@@ -10,5 +10,4 @@ int main() {
     }
 
     printf("Tong tu 1 den %d la: %d\n", n, sum);
-    return 0;
 }
